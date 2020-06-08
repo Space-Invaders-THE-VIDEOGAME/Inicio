@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1591552348 source:c:\users\alons\desktop\space_invaders_02\main.cpp
+	<iostream>
+	<allegro.h>
+	"Inicio_Allegro.h"
+	"Disparos.h"
+
+1591552097 c:\users\alons\desktop\space_invaders_02\inicio_allegro.h
+
+1591551423 c:\users\alons\desktop\space_invaders_02\disparos.h
+
+1591557237 source:c:\users\alumno\desktop\tp-lab2\proyecto ffinal\space-invader-sin-clases\space_invaders_02\main.cpp
+	<iostream>
+	<allegro.h>
+	"Inicio_Allegro.h"
+	"Disparos.h"
+
+1591552097 c:\users\alumno\desktop\tp-lab2\proyecto ffinal\space-invader-sin-clases\space_invaders_02\inicio_allegro.h
+
+1591551423 c:\users\alumno\desktop\tp-lab2\proyecto ffinal\space-invader-sin-clases\space_invaders_02\disparos.h
+
