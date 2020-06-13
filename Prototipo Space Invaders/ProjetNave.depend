@@ -41,3 +41,21 @@
 
 1591821838 source:c:\users\edwin salcedo\desktop\ejerc++\projetnave\enemigo.cpp
 
+1592001907 source:c:\users\alons\desktop\prototipo space invaders\main.cpp
+	<allegro.h>
+	<iostream>
+	<list>
+	<math.h>
+	"alarma.h"
+	"bala.h"
+	"nave.h"
+	"enemigos.h"
+
+1591882111 c:\users\alons\desktop\prototipo space invaders\alarma.h
+
+1591881922 c:\users\alons\desktop\prototipo space invaders\bala.h
+
+1592002211 c:\users\alons\desktop\prototipo space invaders\nave.h
+
+1592002026 c:\users\alons\desktop\prototipo space invaders\enemigos.h
+
