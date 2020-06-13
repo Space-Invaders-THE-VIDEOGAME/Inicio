@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1591655832 source:c:\users\edwin salcedo\desktop\alle_projects\projetnave\main.cpp
+	<allegro.h>
+	<iostream>
+	<list>
+	<math.h>
+	"alarma.h"
+	"bala.h"
+	"nave.h"
+	"enemigos.h"
+
+1591641370 c:\users\edwin salcedo\desktop\alle_projects\projetnave\nave.h
+
+1591546763 source:c:\users\edwin salcedo\desktop\alle_projects\projetnave\nave.cpp
+
+1591641257 c:\users\edwin salcedo\desktop\alle_projects\projetnave\bala.h
+
+1591655904 c:\users\edwin salcedo\desktop\alle_projects\projetnave\enemigos.h
+
+1591632283 c:\users\edwin salcedo\desktop\alle_projects\projetnave\enemigo.h
+
+1591639629 c:\users\edwin salcedo\desktop\alle_projects\projetnave\alarma.h
+
+1592001907 source:c:\users\edwin salcedo\desktop\ejerc++\projetnave\main.cpp
+	<allegro.h>
+	<iostream>
+	<list>
+	<math.h>
+	"alarma.h"
+	"bala.h"
+	"nave.h"
+	"enemigos.h"
+
+1591882111 c:\users\edwin salcedo\desktop\ejerc++\projetnave\alarma.h
+
+1591881922 c:\users\edwin salcedo\desktop\ejerc++\projetnave\bala.h
+
+1592002211 c:\users\edwin salcedo\desktop\ejerc++\projetnave\nave.h
+
+1592002026 c:\users\edwin salcedo\desktop\ejerc++\projetnave\enemigos.h
+
+1591821838 source:c:\users\edwin salcedo\desktop\ejerc++\projetnave\enemigo.cpp
+
